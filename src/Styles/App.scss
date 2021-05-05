@@ -1,0 +1,9 @@
+//WE are Importing all the components scss files Files in the APP.js
+
+//importing s breakpoints.scss
+@import "./Breakpoint.scss";
+@import "./Varisbles"; //variable.
+
+.App {
+  background-color: $black;
+}
