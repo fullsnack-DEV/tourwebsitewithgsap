@@ -6,8 +6,7 @@ export const Header = () => {
       <div className="header__container">
         <div className="header__logo">
           <a href="/">
-            {" "}
-            <h1 className="header__logo--heading">LOGO</h1>{" "}
+            <h1 className="header__logo--heading">MOVE</h1>{" "}
           </a>
         </div>
         <nav className="header__nav">
@@ -15,7 +14,9 @@ export const Header = () => {
           <a href="/">Pages</a>
           <a href="/">Blog</a>
           <a href="/">Portfolio</a>
-          <a href="/">Get Started</a>
+          <a href="/" className="header__nav button">
+            Get Started
+          </a>
         </nav>
       </div>
     </div>
