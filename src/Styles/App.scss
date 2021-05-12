@@ -1,9 +1,8 @@
 //WE are Importing all the components scss files Files in the APP.js
 
-//importing s breakpoints.scss
-@import "./Breakpoint.scss";
-@import "./Varisbles"; //variable.
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap");
 
-.App {
-  background-color: $black;
-}
+@import "./base";
+@import "./Breakpoint.scss";
+@import "./Varisbles";
+@import "./ComponentsStyle/_header";
