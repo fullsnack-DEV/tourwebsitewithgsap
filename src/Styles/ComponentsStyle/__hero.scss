@@ -13,8 +13,8 @@
     align-items: center;
     position: relative;
 
-    &::after {
-      content: "";
+    &--circle,
+    .circle {
       z-index: -5;
       position: absolute;
       display: block;
@@ -62,19 +62,17 @@
   &__img {
     width: 700px;
     position: relative;
+  }
+  &__tag {
+    z-index: -5;
+    position: absolute;
+    display: block;
+    top: 200px;
 
-    &::after {
-      content: "";
-      z-index: -5;
-      position: absolute;
-      display: block;
-      top: 200px;
-
-      left: 155px;
-      width: 400px;
-      height: 400px;
-      border-radius: 400px;
-      background-color: #749485;
-    }
+    left: 155px;
+    width: 400px;
+    height: 400px;
+    border-radius: 400px;
+    background-color: #749485;
   }
 }

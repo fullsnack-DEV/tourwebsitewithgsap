@@ -7,6 +7,8 @@ export const HeroSec = () => {
       <div className="hero__container">
         <div className="hero__heading">
           <div className="hero__heading--content">
+            <div className="hero__heading--circle" />
+
             <h2>
               Introducing a new <br /> Music App Move <br /> Music!
             </h2>
@@ -24,6 +26,8 @@ export const HeroSec = () => {
         </div>
 
         <div className="hero__img">
+          <div className="hero__tag"></div>
+
           <img src={bgimg} alt="mobile" className="hero__img--svg" />
         </div>
       </div>
