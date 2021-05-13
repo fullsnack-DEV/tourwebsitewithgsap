@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tourwebsitewithgsap/static/css/main.4ad96719.chunk.css",
+    "main.js": "/tourwebsitewithgsap/static/js/main.54ad2fbd.chunk.js",
+    "main.js.map": "/tourwebsitewithgsap/static/js/main.54ad2fbd.chunk.js.map",
+    "runtime-main.js": "/tourwebsitewithgsap/static/js/runtime-main.a914b856.js",
+    "runtime-main.js.map": "/tourwebsitewithgsap/static/js/runtime-main.a914b856.js.map",
+    "static/js/2.a8ef2c38.chunk.js": "/tourwebsitewithgsap/static/js/2.a8ef2c38.chunk.js",
+    "static/js/2.a8ef2c38.chunk.js.map": "/tourwebsitewithgsap/static/js/2.a8ef2c38.chunk.js.map",
+    "static/js/3.03064c72.chunk.js": "/tourwebsitewithgsap/static/js/3.03064c72.chunk.js",
+    "static/js/3.03064c72.chunk.js.map": "/tourwebsitewithgsap/static/js/3.03064c72.chunk.js.map",
+    "index.html": "/tourwebsitewithgsap/index.html",
+    "static/css/main.4ad96719.chunk.css.map": "/tourwebsitewithgsap/static/css/main.4ad96719.chunk.css.map",
+    "static/js/2.a8ef2c38.chunk.js.LICENSE.txt": "/tourwebsitewithgsap/static/js/2.a8ef2c38.chunk.js.LICENSE.txt",
+    "static/media/Saly-12.svg.ed7c018d.svg": "/tourwebsitewithgsap/static/media/Saly-12.svg.ed7c018d.svg",
+    "static/media/Saly-13.c1ad3481.svg": "/tourwebsitewithgsap/static/media/Saly-13.c1ad3481.svg",
+    "static/media/Saly-24.160a37a0.svg": "/tourwebsitewithgsap/static/media/Saly-24.160a37a0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a914b856.js",
+    "static/js/2.a8ef2c38.chunk.js",
+    "static/css/main.4ad96719.chunk.css",
+    "static/js/main.54ad2fbd.chunk.js"
+  ]
+}
