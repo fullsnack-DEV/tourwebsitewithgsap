@@ -33,10 +33,10 @@
     @include media("<=phone") {
       justify-content: center;
       align-items: center;
+      margin-left: 200%;
     }
     @include media("<=desktop") {
       width: 700px;
-      margin-left: 250%;
     }
 
     &-circle {
