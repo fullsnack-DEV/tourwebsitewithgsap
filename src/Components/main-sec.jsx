@@ -7,7 +7,7 @@ export const Main = () => {
       <div className="main__container">
         <div className="main__img">
           <div className="main__img-circle" />
-          <img src={Phoneimg} alt="" />
+          <img src={Phoneimg} alt="" className="main__img-svg" />
         </div>
         <div className="main__heading">
           <div className="main__heading-container">

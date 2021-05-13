@@ -7,4 +7,10 @@
   font-size: 1.5rem;
   border-radius: 8px;
   color: #fff;
+
+  @include media("<=phone") {
+    font-size: 6rem;
+    padding: 20px 50px;
+    border-radius: 10px;
+  }
 }
