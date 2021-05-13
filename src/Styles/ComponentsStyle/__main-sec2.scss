@@ -1,4 +1,8 @@
 .sub {
+  @include media("<=phone") {
+    margin-top: 25%;
+  }
+
   &__container {
     margin: 0 auto;
     display: flex;
@@ -54,7 +58,7 @@
       width: 500px;
       height: 500px;
       border-radius: 400px;
-      background-color: #d8710a;
+      background-color: #749485;
     }
   }
 
